@@ -48,6 +48,5 @@
     "eslint-plugin-react": "^7.10.0",
     "jest": "^23.3.0",
     "pre-commit": "^1.2.2"
-  },
-  "dependencies": {}
+  }
 }
